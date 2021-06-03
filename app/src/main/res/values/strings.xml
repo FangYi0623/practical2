@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">practical 2</string>
+    <string name="appDescription">This application is about hobbies. From here, you can learn more about the hobbies that are more common and that mostly could be done during the pandemic.</string>
+    <string name="appDesc">This application is about hobbies. In this app, you can learn more about different hobbies and get to know more about health benefits and where you can carry out these activities.</string>
+
+    <string name="singingHeader">Singing</string>
+    <string name="descSinging">Singing can help you to relax and destress because you can immerse yourself into the world of music. You can vent your emotions through music and get to relax eventually.</string>
+    <string name="venueSinging">Venues: toilet, bedroom, KTV, hall, etc.</string>
+    <string name="urlSinging"><a href="https://www.onlygood.tv/why-you-should-take-up-singing-as-a-hobby-second-life-career-path-2078280022.html"></a>Click here to find out more!</string>
+
+    <string name="photographyHeader">Photography</string>
+    <string name="photographyDesc">Photography is hobby that can be done by all ages. The skills can be learnt online or through tuition or workshops. Photography allows people to capture moments of their life that they want to keep.</string>
+    <string name="photographyVenue">Venue: home, park, zoo, amusement parks, etc.</string>
+    <string name="urlPhotography"><a href="https://digital-photography-school.com/10-reasons-photography-great-hobby/#:~:text=Photography%20is%20a%20hobby%20that,Start%20getting%20real%20now!"></a>Click here to find out more!</string>
+
+    <string name="handicraftHeader">Handicraft</string>
+    <string name="descHandicraft">Handicraft is a hobby that can help to improve your patience and is helpful in keeping you calm and spend time.</string>
+    <string name="venueHandicraft">Venue: workshops, home, anywhere with large tables and tools needed</string>
+    <string name="urlHandicraft"><a href="https://www.craftmakerpro.com/business-tips/5-reasons-crafting-best-hobby-world/"></a>Click here to find out more!</string>
+
+    <string name="collectionHeader">Collection</string>
+    <string name="descCollection">Collection is a hobby that can be done by all ages. It can made into memory to commemorate things such as your childhood. For the older peopl, the items collected can be like a trip down memory lane for them.</string>
+    <string name="urlCol"><a href="https://modelartdisplay.com/blogs/blog-posts/the-7-ultimate-reasons-why-we-collect-why-it-s-the-best-hobby-ever"></a>Click here to find out more!</string>
+
+    <string name="badmintonHeader">Badminton</string>
+    <string name="badmintonDesc">Badminton beings you health benefits such as fat burning and enhances your agility. You are required to movev around and you can get to socialize with other people.</string>
+    <string name="venueBadminton">Venue: stadium, void deck, field, etc.</string>
+    <string name="urlBadminton"><a href="https://www.everyoneactive.com/content-hub/activities/9-reasons-to-try-badminton/"></a>Click here to find out more!</string>
+
+    <string name="cyclingHeader">Cycling</string>
+    <string name="cyclingDesc">Cycling is a hobby that can take place both indoors and outdoors. There is the stationary version that is used indoors as a type of gym equipment and both helps you to loose fats and get fit.</string>
+    <string name="venueCycling">Venue: park, cycling track, etc.</string>
+    <string name="urlcycling"><a href="https://www.firefoxbikes.com/blog/5-reasons-why-cycling-should-be-your-daily-habit-and-not-just-a-hobby/#:~:text=Cycling%20as%20we%20know%20it,fall%20in%20love%20with%20it!"></a>Click here to find out more!</string>
+    <string name="venuePhotography">Venues: beaches, home, parks, garden, attractions, amusement parks, etc.</string>
+
+
+</resources>
